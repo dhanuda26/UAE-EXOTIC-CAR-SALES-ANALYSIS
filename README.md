@@ -18,14 +18,14 @@ Each model includes detailed metrics such as horsepower, torque, top speed, engi
 The interface uses transparent PNG renders, custom backgrounds, and brand logos to create a premium, showroom-style visual experience.
 ________________________________________
 # 🔧 Key Features
-# ✅ Dynamic Model Switching
+✅ Dynamic Model Switching
 
-# Each model has its own visual layer controlled through:
+Each model has its own visual layer controlled through:
 •	Bookmarks
 •	Selection Groups
 •	Transparent navigation buttons
 
-# Clicking on any model updates:
+Clicking on any model updates:
 •	Car render
 •	Brand badge
 •	Performance KPIs
